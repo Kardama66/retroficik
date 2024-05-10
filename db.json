@@ -1,0 +1,39 @@
+{
+    "gry_planszowe": [
+        {
+            "nazwa": "Poker",
+            "minWiekGraczy": 16,
+            "minLiczbaGraczy": 2,
+            "maxLiczbaGraczy": 8,
+            "czasGrania": 3
+        },
+        {
+            "nazwa": "Monopoly",
+            "minWiekGraczy": 3,
+            "minLiczbaGraczy": 2,
+            "maxLiczbaGraczy": 4,
+            "czasGrania": 1
+        },
+        {
+            "nazwa": "Scrabble",
+            "minWiekGraczy": 7,
+            "minLiczbaGraczy": 2,
+            "maxLiczbaGraczy": 4,
+            "czasGrania": 2
+        },
+        {
+            "nazwa": "Twister",
+            "minWiekGraczy": 6,
+            "minLiczbaGraczy": 2,
+            "maxLiczbaGraczy": 3,
+            "czasGrania": 1
+        },
+        {
+            "nazwa": "Uno",
+            "minWiekGraczy": 4,
+            "minLiczbaGraczy": 2,
+            "maxLiczbaGraczy": 7,
+            "czasGrania": 1
+        }
+    ]
+}
